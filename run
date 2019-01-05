@@ -1,9 +1,9 @@
 #!/usr/bin/env php
 <?php
 
-include "src/Dates/BirthDays.php";
+include 'src/Dates/BirthDays.php';
 
-$birthDate = "1984-01-16";
+$birthDate = '1984-01-16';
 
 $days = new \Morozov\Dates\BirthDays($birthDate);
 
