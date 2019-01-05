@@ -3,7 +3,7 @@
 
 require_once 'vendor/autoload.php';
 
-$birthDate = '1984-01-16';
+$birthDate = '2010-01-16';
 
 $days = new \Morozov\Dates\BirthDays($birthDate);
 
