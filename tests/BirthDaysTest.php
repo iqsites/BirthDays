@@ -20,7 +20,7 @@ final class BirthDaysTest extends TestCase
         $days = new BirthDays($todayDate);
         $totalDays = $days->findTotalDays();
 
-        $this->assertEquals(366, $totalDays);
+        $this->assertEquals(365, $totalDays);
     }
 
 }
