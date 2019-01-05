@@ -1,5 +1,5 @@
 {
-    "name": "morozov/dates",
+    "name": "iqsites/dates",
     "description": "Find days number from birthdat to today",
     "type": "library",
     "license": "MIT",
