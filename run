@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-include 'src/Dates/BirthDays.php';
+require_once 'vendor/autoload.php';
 
 $birthDate = '1984-01-16';
 

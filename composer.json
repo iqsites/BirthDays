@@ -1,0 +1,19 @@
+{
+    "name": "morozov/dates",
+    "description": "Find days number from birthdat to today",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Morozov",
+            "email": "morozov@websecure.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Morozov\\" : "src"
+        }
+    }
+
+}
